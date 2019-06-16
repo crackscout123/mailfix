@@ -114,7 +114,6 @@ Reach out to me at one of the following places!
 
 - Forum at <a href="https://werkstatt-company.de" target="_blank">`werkstatt-company.de`</a>
 - Instagram at <a href="https://instagram.com/baumirein" target="_blank">`@baumirein`</a>
-- Insert more social links here.
 
 ---
 
