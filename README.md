@@ -1,5 +1,5 @@
 # mailfix
-> Simple Web-Based Mail System
+> Simple Web Contact-Form based mailer
 
 ![Build Status](https://img.shields.io/github/issues/getPoland/mailfix.svg?style=flat-square)![Build Stars](https://img.shields.io/github/stars/getPoland/mailfix.svg?style=flat-square)![Build License](https://img.shields.io/github/license/getPoland/mailfix.svg?style=flat-square)
 
